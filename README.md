@@ -63,3 +63,23 @@ The model was optimized using mini-batch stochastic tracking over 5 epochs (Batc
 ```text
 Evaluating model on test dataset...
 Accuracy of the model on the 10,000 test images: 99.05%
+
+🛠️ Project Structure
+FileDescriptionmodel.pyExplicit PyTorch object class structural configuration for the CNNtrain.pyPipeline management: dataset download, image tensor normalization ([-1, 1] space), backpropagation, and state-dict weight trackingevaluate.pySeparate isolated script running torch.no_grad() to compute strict metrics against testing distributionsapp.pyActive deployment interface converting interactive canvas NumPy arrays into analytical grayscale float tensors
+
+📦 Installation & Setup
+1. Clone the Repository
+bashgit clone https://github.com/AMIFEX-IT/handwritten-digit-recognition.git
+cd handwritten-digit-recognition
+2. Install Dependencies
+bashpip install torch torchvision gradio pillow numpy
+3. Launch the App
+bashpython app.py
+This starts a local interactive canvas server in your browser where you can draw digits and get real-time predictions.
+
+🚀 Deploying Updates to GitHub
+Once you've made changes, push them to GitHub with the following commands:
+bashgit add README.md
+git commit -m "Docs: Complete technical breakdown of CNN architecture and execution instructions"
+git push origin main
+
