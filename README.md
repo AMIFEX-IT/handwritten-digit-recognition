@@ -6,9 +6,11 @@ This model achieves a peak evaluation accuracy of **99.05%** on 10,000 unseen te
 
 ## 📺 Project Demo
 
-<video src="./assets/demo.mp4" controls width="100%" autoplay loop muted>
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/78df03e0-38ec-4032-a1a5-24fc67a4102e
+
+
 
 ---
 
@@ -82,4 +84,5 @@ Once you've made changes, push them to GitHub with the following commands:
 bashgit add README.md
 git commit -m "Docs: Complete technical breakdown of CNN architecture and execution instructions"
 git push origin main
+
 
