@@ -6,8 +6,6 @@ This model achieves a peak evaluation accuracy of **99.05%** on 10,000 unseen te
 
 ## 📺 Project Demo
 
-## 📺 Project Demo
-
 <video src="./assets/demo.mp4" controls width="100%" autoplay loop muted>
   Your browser does not support the video tag.
 </video>
