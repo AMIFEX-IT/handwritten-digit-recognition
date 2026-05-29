@@ -6,10 +6,7 @@ This model achieves a peak evaluation accuracy of **99.05%** on 10,000 unseen te
 
 ## 📺 Project Demo
 
-
-
-https://github.com/user-attachments/assets/78df03e0-38ec-4032-a1a5-24fc67a4102e
-
+<img width="800" height="350" alt="demo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a85849eb-f52d-496d-b342-85e1972401f7" />
 
 
 ---
